@@ -34,3 +34,4 @@ if __name__ == "__main__":
 	print localtime
 	print stockname 
 	print share_value
+	#finish
